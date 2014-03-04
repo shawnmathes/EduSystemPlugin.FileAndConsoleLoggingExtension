@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: File And Console Logging Extension
+Bundle-SymbolicName: EduSystemPlugin.FileAndConsoleLoggingExtension;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: edusystemplugin.fileandconsoleloggingextension.Activator
+Bundle-Vendor: Shawn Mathes
+Require-Bundle: org.eclipse.core.runtime,
+ EduSystemPlugin
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
